@@ -1,0 +1,9 @@
+{
+    "name": "My Dev Container",
+    "dockerFile": "../Dockerfile",
+    "runArgs": [
+        "--network=host",
+        "--ipc=host",
+        "--env=DISPLAY"
+    ]
+}
