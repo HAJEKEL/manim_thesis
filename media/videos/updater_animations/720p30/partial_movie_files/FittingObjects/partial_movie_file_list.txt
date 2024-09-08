@@ -1,5 +1,0 @@
-# This file is used internally by FFMPEG.
-file 'file:/workspaces/manim_thesis/media/videos/updater_animations/720p30/partial_movie_files/FittingObjects/2016333726_1277313456_223132457.mp4'
-file 'file:/workspaces/manim_thesis/media/videos/updater_animations/720p30/partial_movie_files/FittingObjects/543634251_2729478684_1849994013.mp4'
-file 'file:/workspaces/manim_thesis/media/videos/updater_animations/720p30/partial_movie_files/FittingObjects/543634251_1176326937_3147921501.mp4'
-file 'file:/workspaces/manim_thesis/media/videos/updater_animations/720p30/partial_movie_files/FittingObjects/543634251_4284821961_3147921501.mp4'
